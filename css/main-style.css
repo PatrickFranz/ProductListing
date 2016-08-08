@@ -59,7 +59,11 @@
     #disc{
         
         margin: 25px 0 0 0;
-    }    
+    }  
+
+    #footer{
+        height: 3rem;
+    }  
 
     #main-contain{
         margin: 10px auto;
@@ -141,6 +145,10 @@
     .fixed-width-100{
         width: 100px;
         margin: 5px 0;
+    }
+
+    .hidden{
+        display: none;
     }
     
     .med-space{
